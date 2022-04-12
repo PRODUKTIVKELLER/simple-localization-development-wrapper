@@ -1,0 +1,3 @@
+[submodule "Packages/com.produktivkeller.simple-localization"]
+	path = Packages/com.produktivkeller.simple-localization
+	url = git@github.com:PRODUKTIVKELLER/simple-localization.git
