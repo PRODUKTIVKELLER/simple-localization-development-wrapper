@@ -1,4 +1,6 @@
 using Produktivkeller.SimpleLocalization.Unity;
+using Produktivkeller.SimpleLocalization.Unity.Components;
+using Produktivkeller.SimpleLocalization.Unity.Core;
 using TMPro;
 using UnityEngine;
 
