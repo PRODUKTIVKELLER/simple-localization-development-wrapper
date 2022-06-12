@@ -3196,6 +3196,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1980473002}
   - component: {fileID: 1980473001}
+  - component: {fileID: 1980473004}
+  - component: {fileID: 1980473003}
   m_Layer: 0
   m_Name: Localization Service
   m_TagString: Untagged
@@ -3230,6 +3232,32 @@ Transform:
   m_Father: {fileID: 1656440191}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1980473003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980473000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 165a8d7968c24f59b8432312d61aa2cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  priority: 1
+--- !u!114 &1980473004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980473000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f9d19822e245d784286d50b25fc7b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  priority: 0
 --- !u!1 &2113660463
 GameObject:
   m_ObjectHideFlags: 0
