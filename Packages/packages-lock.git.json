@@ -4,6 +4,11 @@
             "name": "com.produktivkeller.simple-logging",
             "hash": "b73e52836a3dcee493dbf1526373647ae20ff960",
             "url": "https://github.com/PRODUKTIVKELLER/simple-logging.git"
+        },
+        {
+            "name": "com.produktivkeller.simple-code-patterns",
+            "hash": "14d46124d8456e076d30bfdad324d734b492c7fc",
+            "url": "https://github.com/PRODUKTIVKELLER/simple-code-patterns.git"
         }
     ]
 }

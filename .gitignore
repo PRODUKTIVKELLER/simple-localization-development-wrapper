@@ -98,3 +98,6 @@ FMODStudioCache.asset
 # Steampipe
 Steampipe/sdk/tools/ContentBuilder/content/
 Steampipe/sdk/tools/ContentBuilder/output/
+
+# Packages
+.com.produktivkeller.*
